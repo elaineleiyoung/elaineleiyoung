@@ -19,7 +19,7 @@
 
 <!-- intro -->
 <div id="intro" align="center">
-  <h3> Hi, I'm Elaine! &#128512; </h3>
+  <h3> Hi, I'm Elaine! &#129309; </h3>
 </div>
 
 ---
