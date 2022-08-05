@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Instagram-833AB4?style=flat&logo=instagram&logoColor=purple-red" alt="Instagram Badge"/>
   </a>
   <a href="https://elaineleiyoung.github.io/">
-    <img src="https://img.shields.io/badge/Personal Website-black?style=flat&logo=github&logoColor=white" alt="Personal Badge"/>
+    <img src="https://img.shields.io/badge/Website-black?style=flat&logo=github&logoColor=white" alt="Personal Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=elaineleiyoung&style=flat-square&color=blue" alt=""/>
 </div>
