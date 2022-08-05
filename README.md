@@ -33,7 +33,8 @@ I am a sophomore at Boston University studying Computer Science :computer: and E
 
 - :zap: In my free time, I like to play golf and listen to podcasts and audiobooks
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eleiyoung/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eleiyoung/) [![Instagram Badge](https://img.shields.io/badge/Instagram-833AB4?style=flat&logo=instagram&logoColor=purple-red)](https://www.instagram.com/elaineleiyoung/)
+
 
 ---
 
