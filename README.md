@@ -25,7 +25,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a sophomore at Boston University studying Computer Science :computer: and Economics :heavy_dollar_sign:.
+I am a rising sophomore at Boston University studying Computer Science :computer: and Economics :heavy_dollar_sign:.
 
 - :telescope: I’m interested in learning new skills and exploring new oppurtunities
 
