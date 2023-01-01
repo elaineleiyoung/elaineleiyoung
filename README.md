@@ -25,11 +25,11 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a rising sophomore at Boston University studying Computer Science :computer: and Economics :heavy_dollar_sign:.
+I am a rising junior at Boston University studying Computer Science :computer: and Economics :heavy_dollar_sign:.
 
 - :telescope: I’m interested in learning new skills and exploring new oppurtunities
 
-- :seedling: I am currently a Production Engineering Fellow under Major League Hacking
+- :seedling: Most recently I was a Production Engineering Fellow under Major League Hacking
 
 - :zap: In my free time, I like to play golf and listen to podcasts and audiobooks
 
