@@ -27,7 +27,7 @@
 ### :woman_technologist: About Me :
 I am a rising junior at Boston University studying Computer Science :computer: and Economics :heavy_dollar_sign:.
 
-- :telescope: I’m interested in learning new skills and exploring new oppurtunities
+- :telescope: I’m interested in Software Engineering, DevOps, and Cybersecurity
 
 - :seedling: Most recently I was a Production Engineering Fellow under Major League Hacking
 
