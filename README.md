@@ -25,13 +25,13 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a rising junior at Boston University studying Computer Science :computer: and Economics :heavy_dollar_sign:.
+I am a rising junior at Boston University studying Computer Science :computer: with minors in Economics :heavy_dollar_sign: and Philosophy :thought_balloon:.
 
-- :telescope: I’m interested in Software Engineering, DevOps, and Cybersecurity
+- :telescope: I’m interested in Software Development, DevOps, and Data Engineering
 
-- :seedling: Most recently I was a Production Engineering Fellow under Major League Hacking
+- :seedling: This summer I am a Hybrid Cloud Data Engineer at Nutanix
 
-- :zap: In my free time, I like to play golf and listen to podcasts and audiobooks
+- :zap: In my free time, I like to play golf, listen to podcasts, and try brain teasers.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eleiyoung/) [![Instagram Badge](https://img.shields.io/badge/Instagram-833AB4?style=flat&logo=instagram&logoColor=purple-red)](https://www.instagram.com/elaineleiyoung/)
 
