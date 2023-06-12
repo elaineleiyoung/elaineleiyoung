@@ -55,8 +55,5 @@ I am a rising junior at Boston University studying Computer Science :computer: w
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elaineleiyoung&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elaineleiyoung&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Elaine's github stats](https://github-readme-stats.vercel.app/api?username=elaineleiyoung&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
