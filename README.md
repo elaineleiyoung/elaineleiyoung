@@ -25,11 +25,11 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a rising junior at Boston University studying Computer Science :computer: with minors in Economics :heavy_dollar_sign: and Philosophy :thought_balloon:.
+I am an incoming Master's student at UC Berkeley, where I'll be pursuing my Master's of Engineering in Industrial Engineering and Operations Research. I recently graduated from Boston University with my Bachelor's in Computer Science :computer: with minors in Economics :heavy_dollar_sign: and Philosophy :thought_balloon:.
 
-- :telescope: I’m interested in Software Development, DevOps, and Data Engineering
+- :telescope: I’m interested in Software Development, Data Engineering, and Operations Research.
 
-- :seedling: This summer I am a Hybrid Cloud Data Engineer at Nutanix
+- :seedling: This summer I am an Engineering Summer Analyst at Goldman Sachs.
 
 - :zap: In my free time, I like to play golf, listen to podcasts, and try brain teasers.
 
